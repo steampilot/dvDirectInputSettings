@@ -93,9 +93,9 @@
       <InvertControl>true</InvertControl>
     </ConfigControls>
     <ConfigControls>
-      <Enabled>false</Enabled>
-      <DeviceId>0</DeviceId>
-      <DeviceOffset>X</DeviceOffset>
+      <Enabled>true</Enabled>
+      <DeviceId>1</DeviceId>
+      <DeviceOffset>Buttons43</DeviceOffset>
       <InvertControl>false</InvertControl>
     </ConfigControls>
     <ConfigControls>
