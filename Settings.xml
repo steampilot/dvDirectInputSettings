@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Settings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <configEnableRecentInputGUI>true</configEnableRecentInputGUI>
+  <configEnableRecentInputGUI>false</configEnableRecentInputGUI>
   <configControls>
     <ConfigControls>
       <Enabled>false</Enabled>
@@ -45,9 +45,9 @@
       <InvertControl>false</InvertControl>
     </ConfigControls>
     <ConfigControls>
-      <Enabled>false</Enabled>
-      <DeviceId>0</DeviceId>
-      <DeviceOffset>X</DeviceOffset>
+      <Enabled>true</Enabled>
+      <DeviceId>1</DeviceId>
+      <DeviceOffset>Buttons7</DeviceOffset>
       <InvertControl>false</InvertControl>
     </ConfigControls>
     <ConfigControls>
