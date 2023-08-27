@@ -11,7 +11,7 @@
     <ConfigControls>
       <Enabled>true</Enabled>
       <DeviceId>1</DeviceId>
-      <DeviceOffset>X</DeviceOffset>
+      <DeviceOffset>Y</DeviceOffset>
       <InvertControl>true</InvertControl>
     </ConfigControls>
     <ConfigControls>
@@ -23,7 +23,7 @@
     <ConfigControls>
       <Enabled>true</Enabled>
       <DeviceId>1</DeviceId>
-      <DeviceOffset>Y</DeviceOffset>
+      <DeviceOffset>Buttons30</DeviceOffset>
       <InvertControl>false</InvertControl>
     </ConfigControls>
     <ConfigControls>
@@ -39,9 +39,9 @@
       <InvertControl>false</InvertControl>
     </ConfigControls>
     <ConfigControls>
-      <Enabled>false</Enabled>
-      <DeviceId>0</DeviceId>
-      <DeviceOffset>X</DeviceOffset>
+      <Enabled>true</Enabled>
+      <DeviceId>1</DeviceId>
+      <DeviceOffset>Buttons7</DeviceOffset>
       <InvertControl>false</InvertControl>
     </ConfigControls>
     <ConfigControls>
@@ -51,33 +51,33 @@
       <InvertControl>false</InvertControl>
     </ConfigControls>
     <ConfigControls>
-      <Enabled>false</Enabled>
-      <DeviceId>0</DeviceId>
-      <DeviceOffset>X</DeviceOffset>
+      <Enabled>true</Enabled>
+      <DeviceId>1</DeviceId>
+      <DeviceOffset>Buttons39</DeviceOffset>
       <InvertControl>false</InvertControl>
     </ConfigControls>
     <ConfigControls>
-      <Enabled>false</Enabled>
-      <DeviceId>0</DeviceId>
-      <DeviceOffset>X</DeviceOffset>
+      <Enabled>true</Enabled>
+      <DeviceId>1</DeviceId>
+      <DeviceOffset>Buttons41</DeviceOffset>
       <InvertControl>false</InvertControl>
     </ConfigControls>
     <ConfigControls>
-      <Enabled>false</Enabled>
-      <DeviceId>0</DeviceId>
-      <DeviceOffset>X</DeviceOffset>
+      <Enabled>true</Enabled>
+      <DeviceId>1</DeviceId>
+      <DeviceOffset>Buttons33</DeviceOffset>
       <InvertControl>false</InvertControl>
     </ConfigControls>
     <ConfigControls>
-      <Enabled>false</Enabled>
-      <DeviceId>0</DeviceId>
-      <DeviceOffset>X</DeviceOffset>
+      <Enabled>true</Enabled>
+      <DeviceId>1</DeviceId>
+      <DeviceOffset>Buttons35</DeviceOffset>
       <InvertControl>false</InvertControl>
     </ConfigControls>
     <ConfigControls>
-      <Enabled>false</Enabled>
-      <DeviceId>0</DeviceId>
-      <DeviceOffset>X</DeviceOffset>
+      <Enabled>true</Enabled>
+      <DeviceId>1</DeviceId>
+      <DeviceOffset>Buttons37</DeviceOffset>
       <InvertControl>false</InvertControl>
     </ConfigControls>
     <ConfigControls>
@@ -89,7 +89,7 @@
     <ConfigControls>
       <Enabled>true</Enabled>
       <DeviceId>1</DeviceId>
-      <DeviceOffset>Buttons30</DeviceOffset>
+      <DeviceOffset>X</DeviceOffset>
       <InvertControl>true</InvertControl>
     </ConfigControls>
     <ConfigControls>
@@ -99,13 +99,13 @@
       <InvertControl>false</InvertControl>
     </ConfigControls>
     <ConfigControls>
-      <Enabled>false</Enabled>
-      <DeviceId>0</DeviceId>
-      <DeviceOffset>X</DeviceOffset>
-      <InvertControl>true</InvertControl>
+      <Enabled>true</Enabled>
+      <DeviceId>1</DeviceId>
+      <DeviceOffset>Buttons45</DeviceOffset>
+      <InvertControl>false</InvertControl>
     </ConfigControls>
     <ConfigControls>
-      <Enabled>false</Enabled>
+      <Enabled>true</Enabled>
       <DeviceId>1</DeviceId>
       <DeviceOffset>Buttons14</DeviceOffset>
       <InvertControl>false</InvertControl>
